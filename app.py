@@ -1,6 +1,7 @@
 import os
 import time
 import joblib
+import spacy
 import pandas as pd
 import streamlit as st
 
